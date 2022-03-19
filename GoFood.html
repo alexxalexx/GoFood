@@ -6,14 +6,16 @@
     <title>GoFood - Доставка еды и продуктов</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='GoFoodStyles.css'>
-    <script src='GoFood.js'></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">    
+
 </head>
 <body>
     
     <div class="first_frame">
        
-        
-
         <div class="menu_flex">
             
             <img class="menu_logo" src="GoFoodLogo.png">
@@ -22,10 +24,16 @@
 
         </div>
 
-        <button class="delivery_button">Укажите адрес доставки</button>
+        <button class="delivery_button">
+
+            <p class="delivery_here_text">Доставить сюда</p>
+
+            <p class="delivery_adress_text">Укажите адрес доставки</p>
+
+        </button>
         
     </div>
     
-
+    <script src='GoFood.js'></script>
 </body>
 </html>
