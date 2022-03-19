@@ -7,8 +7,20 @@ html
 {
     height: 100%;
 }
-.button_test
+
+/* First Frame */
+
+.first_frame
 {
-    margin-left: 10%;
-    margin-top: 10%;
+    height: 100%
+}
+.logo
+{
+    margin-left: 25px;
+    margin-top: 35px;
+    height: 25px;
+}
+.menu_button
+{
+    justify-content: flex-end;
 }
