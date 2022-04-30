@@ -71,3 +71,17 @@ html
     font-size: 23px;
     font-weight: 700;
 }
+.popular_img_first_row
+{
+    width: 87%;
+    display: flex;
+    margin-left: 25px;
+    justify-content: space-evenly;
+}
+.image_2
+{
+    width: 100px;
+    height: 100px;
+    background: url("img/image-2.png") center / 100px 100px no-repeat; 
+    border: 0;
+}
