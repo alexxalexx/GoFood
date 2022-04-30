@@ -2,7 +2,6 @@ body
 {
     height: 100%;
     margin: 0;
-    font-family: 'Montserrat', sans-serif;
 }
 html
 {
@@ -38,14 +37,14 @@ html
 {
     /* Button Position */
    
-    width: 85%;
+    width: 87%;
     margin-left: 25px;
     margin-right: 25px;
     margin-top: 25px;
 
     /* Button Styles */
 
-    height: 45px;
+    height: 85px;
     background-color: #3BB4DA;
     border: 0px solid;
     border-radius: 10px;
@@ -57,4 +56,13 @@ html
     font-size: 12px;
     color: #ffffff;
     font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.delivery_adress_text
+{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
 }
