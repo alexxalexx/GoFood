@@ -46,17 +46,7 @@ html
     border-radius: 10px;
     text-align: left;
     padding-left: 15px;
-}
-.delivery_here_text
-{
-    font-size: 12px;
-    color: #ffffff;
-    font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-}
-.delivery_adress_text
-{
+
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
@@ -110,9 +100,9 @@ html
 }
 .image_3
 {
-    width: 100px;
+    width: 200px;
     height: 100px;
-    background: url("img/image 3.png") center / 200px 100px no-repeat; 
+    background: url("img/image-3.png") center / 200px 100px no-repeat; 
     border: 0;
     font-family: 'Montserrat', sans-serif;
     color: white;
@@ -123,10 +113,10 @@ html
 {
     width: 100px;
     height: 100px;
-    background: url("img/image 5.png") center / 100px 100px no-repeat; 
+    background: url("img/image-5.png") center / 100px 100px no-repeat; 
     border: 0;
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-weight: 1000;
-    padding-top: 70px;
+    padding-top: 60px;
 }
