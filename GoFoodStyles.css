@@ -66,10 +66,10 @@ html
 {
     font-family: 'Montserrat', sans-serif;
     color: #000000;
-    margin-left: 25px;
     margin-top: 25px;
     font-size: 23px;
     font-weight: 700;
+    text-align: center;
 }
 .popular_img_first_row
 {
@@ -84,4 +84,19 @@ html
     height: 100px;
     background: url("img/image-2.png") center / 100px 100px no-repeat; 
     border: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 1000;
+    padding-top: 70px;
+}
+.image_1
+{
+    width: 200px;
+    height: 100px;
+    background: url("img/image-1.png") center / 200px 100px no-repeat; 
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 1000;
+    padding-top: 70px;
 }
