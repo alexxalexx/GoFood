@@ -7,25 +7,25 @@ let buttonD = document.querySelector(".image_5");
 
 deliveryButton.onclick = function()
 {
-    alert("Delivery Button is pressed");
+    alert("Нажата кнопка выбора адреса");
 };
 
 buttonA.onclick = function()
 {
-    alert("Button A is pressed");
+    alert("Нажата категория 'Блины'");
 };
 
 buttonB.onclick = function()
 {
-    alert("Button B is pressed");
+    alert("Нажата категория 'Готовая еда'");
 };
 buttonC.onclick = function()
 {
-    alert("Button С is pressed");
+    alert("Нажата категория 'Здоровый образ жизни'");
 };
 
 buttonD.onclick = function()
 {
-    alert("Button D is pressed");
+    alert("Нажата категория 'Постная еда'");
 };
 

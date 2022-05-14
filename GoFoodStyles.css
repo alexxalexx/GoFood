@@ -129,3 +129,76 @@ html
     font-weight: 700;
     text-align: center;
 }
+.shops_first_row
+{
+    width: 87%;
+    display: flex;
+    margin-left: 25px;
+    justify-content: space-evenly;
+}
+.shops_second_row
+{
+    width: 87%;
+    display: flex;
+    margin-left: 25px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.shops_third_row
+{
+    width: 87%;
+    display: flex;
+    margin-left: 25px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.shopA
+{
+    width: 150px;
+    height: 50px;
+    background: url("img/shopButtonA.png") center / 150px 50px no-repeat;
+    border: 0;
+    border-radius: 10px; 
+}
+.shopB
+{
+    width: 150px;
+    height: 50px;
+    background: url("img/shopButtonB.png") center / 150px 50px no-repeat;
+    border: 0;
+    border-radius: 10px; 
+}
+.shopC
+{
+    width: 150px;
+    height: 50px;
+    background: url("img/shopButtonC.png") center / 150px 50px no-repeat;
+    border: 0;
+    border-radius: 10px; 
+}
+.shopD
+{
+    width: 150px;
+    height: 50px;
+    background: url("img/shopButtonD.png") center / 150px 50px no-repeat;
+    border: 0;
+    border-radius: 10px; 
+}
+.shopE
+{
+    width: 150px;
+    height: 50px;
+    background: url("img/shopButtonE.png") center / 150px 50px no-repeat;
+    border: 0;
+    border-radius: 10px; 
+}
+.shopF
+{
+    width: 150px;
+    height: 50px;
+    background: url("img/shopButtonF.png") center / 150px 50px no-repeat;
+    border: 0;
+    border-radius: 10px; 
+}
+
+
