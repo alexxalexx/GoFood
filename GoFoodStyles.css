@@ -78,6 +78,25 @@ html
     margin-left: 25px;
     justify-content: space-evenly;
 }
+.popular_img_second_row
+{
+    width: 87%;
+    display: flex;
+    margin-left: 25px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.image_1
+{
+    width: 200px;
+    height: 100px;
+    background: url("img/image-1.png") center / 200px 100px no-repeat; 
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 1000;
+    padding-top: 70px;
+}
 .image_2
 {
     width: 100px;
@@ -89,11 +108,22 @@ html
     font-weight: 1000;
     padding-top: 70px;
 }
-.image_1
+.image_3
 {
-    width: 200px;
+    width: 100px;
     height: 100px;
-    background: url("img/image-1.png") center / 200px 100px no-repeat; 
+    background: url("img/image 3.png") center / 200px 100px no-repeat; 
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 1000;
+    padding-top: 70px;
+}
+.image_5
+{
+    width: 100px;
+    height: 100px;
+    background: url("img/image 5.png") center / 100px 100px no-repeat; 
     border: 0;
     font-family: 'Montserrat', sans-serif;
     color: white;
