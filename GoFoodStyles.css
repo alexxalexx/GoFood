@@ -200,5 +200,19 @@ html
     border: 0;
     border-radius: 10px; 
 }
+.dairyProducts
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    margin-top: 25px;
+    font-size: 27px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #3BB4DA;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
 
