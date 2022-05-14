@@ -1,5 +1,5 @@
-let buttonA = document.getElementsByClassName(".image_2");
-let buttonB = document.getElementsByClassName(".image_1");
+let buttonA = document.querySelector(".image_2");
+let buttonB = document.querySelector(".image_1");
 
 buttonA.onclick = function()
 {
