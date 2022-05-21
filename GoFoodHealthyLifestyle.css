@@ -1,0 +1,46 @@
+body
+{
+    height: 100%;
+    margin: 0;
+}
+html
+{
+    height: 100%;
+}
+.firstFrame
+{
+    height: 100%
+}
+.GoFoodHLSHeader
+{
+    width: 100%;
+    height: 15%;
+
+    background-image: url(img/HealthyLifestyleBackground.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    padding-left: 5%;
+}
+.firstRow
+{
+    margin-top: 25px;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.secondRow
+{
+    margin-top: 25px;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
